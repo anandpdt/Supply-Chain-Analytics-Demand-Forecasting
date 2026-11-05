@@ -944,16 +944,4 @@ The historical dataset used in this project is the **DataCo Smart Supply Chain d
 
 All simulated operational inventory and supplier scenarios are created for project development and demonstration purposes.
 
----
 
-## 19. Author
-
-**Anand Kumar Pandit**
-
-GitHub: [Add your GitHub profile URL]
-
-LinkedIn: [Add your LinkedIn profile URL]
-
----
-
-*This is an evolving academic and portfolio project. Forecasting results, operational simulations, and system capabilities are documented according to the current development stage.*
